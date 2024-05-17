@@ -12,6 +12,14 @@ This project is a simple library management system with authentication and autho
 - **Add Book**: Only Admin users can add books to the library.
 - **Delete Book**: Only Admin users can delete books from the library.
 
+
+
+Developer -
+
+Priyanshu Lodha
+priyanshulodha181@gmail.com
++91-9672696274
+
 ## Endpoints
 
 - `/login`: POST endpoint for user authentication. Returns a JWT token upon successful login.
